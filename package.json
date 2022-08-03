@@ -1,0 +1,21 @@
+{
+  "name": "hatech-web-component",
+  "version": "0.0.8",
+  "description": "同创前端组件封装协议，主要包括组件生命周期注入钩子，模板参数类型等",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "wuhao"
+  },
+  "contributors": [
+    "wuhaowh@hatech.com.cn"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.hatech.com.cn:8088/hatech-web/hatech-web-component.git"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
